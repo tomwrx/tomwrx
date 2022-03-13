@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Tomas.</h1>
-<h3 align="center">I’m interested in Python, Data Science and Machine Learning.</h3>
+<h3 align="left">About me:</h3>
+
+- 📄 I’m interested in Python, Data Science and Machine Learning
 
 - 🔭 I’m currently working on **Home Credit Default Risk Capstone project.**
 
