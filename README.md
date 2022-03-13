@@ -14,7 +14,12 @@
  </p>
 <h3 align="left">My Porfolio projects:</h3>
 <p align="left">
-- Under construction.
+<ol>
+  <li><a href="https://github.com/tomwrx/Ultimate_25k-_Matches_Football_Analysis">European Soccer National Leagues analysis</a> - Extensive EDA and Linear modeling.</li>
+  <br>
+  <li><a href="https://github.com/tomwrx/LendingClub_Loan_Analysis">LendingClub Loan analysis</a> - Analysing clients behaviour and financial metrics. Applying Machine Learning Ensemble Models and deploying them on GCP (Google Could Platform)</li>
+  <br>
+</ol>
 </p>
 
 <h3 align="left">Connect with me:</h3>
