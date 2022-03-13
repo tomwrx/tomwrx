@@ -1,6 +1,8 @@
+<a href="https://ibb.co/hZz2Dy7"><img src="https://i.ibb.co/VQ4M2tj/black-tc.png" alt="black-tc" border="0"></a>
+
 <h3 align="left">About me:</h3>
 
-- 📄 I’m interested in Python, Data Science and Machine Learning
+- 📄 I’m interested in Python, Data Science and Machine Learning.
 
 - 🔭 I’m currently working on **Home Credit Default Risk Capstone project.**
 
