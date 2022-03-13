@@ -1,4 +1,4 @@
-<a href="https://ibb.co/hZz2Dy7"><img src="https://i.ibb.co/VQ4M2tj/black-tc.png" alt="black-tc" border="0"></a>
+<img align="center" src="https://i.postimg.cc/Y0K5qwsz/black-tc.png" alt="Turing College Background"/>
 
 <h3 align="left">About me:</h3>
 
@@ -9,6 +9,13 @@
 - 🌱 I’m currently studying **a Deep Learning.**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/tomas-stankevicius/](https://www.linkedin.com/in/tomas-stankevicius/)
+
+
+ </p>
+<h3 align="left">My Porfolio projects:</h3>
+<p align="left">
+- Under construction.
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
