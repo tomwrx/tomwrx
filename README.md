@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tomwrx
+- 👋 Hi, I’m Tomas.
 - 👀 I’m interested in Python, Data Science and Machine Learning. 
-- 🌱 I’m currently learning mentioned disciplines.
+- 🌱 I’m currently learning mentioned Machine Learning.
 - 💞️ I’m looking to collaborate on project related to Data Science.
 - 📫 Feel free to contact me via GitHub.
 
