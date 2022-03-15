@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently studying **a Deep Learning.**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/tomas-stankevicius/](https://www.linkedin.com/in/tomas-stankevicius/)
+- 📄 Know more about my experiences by contacting me via **social media**. Links are below.
 
 
  </p>
