@@ -19,6 +19,8 @@
   <br>
   <li><a href="https://github.com/tomwrx/LendingClub_Loan_Analysis">LendingClub Loan analysis</a> - Analysing clients behaviour and financial metrics. Applying Machine Learning Ensemble Models and deploying them on GCP (Google Could Platform)</li>
   <br>
+ <li><a href="https://github.com/tomwrx/HomeCredit_Bureau_Loan_Analysis">HomeCredit Bureau Loan analysis</a> - Aggregating and analysing clients behaviour and financial metrics. Applying Machine Learning Ensemble Models and deploying them on GCP (Google Could Platform)</li>
+  <br>
 </ol>
 </p>
 
